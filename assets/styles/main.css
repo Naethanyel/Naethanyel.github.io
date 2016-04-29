@@ -5,9 +5,6 @@ Vine-green: #00b-f8f
 YouTube-red: #bb0-000
 ------------------*/
 
-
-
-
 body {
 	font-size: 1.3em;
 	text-align: center;
@@ -52,7 +49,7 @@ body {
 	background: white;
 	border: solid 2.1px #bb0000;
 }
-.portfolio:hover {
+.portfolio:hover, .portfolio:active {
 	background: #bb0000;
 	border: solid 2.1px white;
 	color: white;
@@ -62,7 +59,7 @@ body {
 	color: #007bb5;
 	border: solid 2.1px #007bb5;
 }
-.linkedin:hover {
+.linkedin:hover, .linkedin:active {
 	background: #007bb5;
 	border: solid 2.1px white;
 	color: white;
@@ -73,7 +70,7 @@ body {
 	border: solid 2.1px black;
 	color: black;
 }
-.github:hover {
+.github:hover, .github:active {
 	background: black;
 	border: solid 2.1px white;
 	color: white;
