@@ -1,0 +1,21 @@
+body {
+	background: url("../images/skulls.png");
+	overflow-x: hidden;
+	text-align: center;
+	float: center;
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 1.2em;
+}
+
+a {
+	display: block;
+	font-size: 1.1em;
+	margin: 10px 0px;
+}
+
+img {
+	height: auto;
+	max-width:80%;
+	border: 2.1px solid black;
+}
+

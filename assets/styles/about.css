@@ -1,0 +1,22 @@
+body {
+	font-size: 1.6em;
+}
+div {
+	float: left;
+	margin: 20px;
+	padding: 20px;
+}
+.red {
+	border: 2.1px solid red;
+}
+.green {
+	border: 2.1px solid green;
+}
+
+ul {
+	list-style-image: url("../images/check.gif");
+}
+
+ol {
+	list-style-image: url("../images/red_x.gif");
+}

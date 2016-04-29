@@ -1,0 +1,109 @@
+/* ----COLORS------
+Pinterest-Red: #cb2-027
+LinkedIn-blue: #007-bb5
+Vine-green: #00b-f8f
+YouTube-red: #bb0-000
+------------------*/
+
+
+
+
+body {
+	font-size: 1.3em;
+	text-align: center;
+	font-family: 'Droid Sans', sans-serif;
+	background: url("../images/skulls.png");
+}
+.strike {
+	text-decoration: line-through;
+}
+.description {
+	max-width: 500px;
+	text-align: center;
+}
+.page_wrap {
+	border: solid gray 0px;
+	
+	margin: 0 auto;
+}
+.title {
+	font-family: 'Acme', sans-serif;
+}
+/*---------LINKS-------------*/
+.link {
+	display: inline-block;
+	margin: 10px;
+	padding: 5px 10px;
+
+	transition: background 0.5s, font-size 0.5s, color 0.5s, border 0.5s, border-radius 0.5s;
+}
+.link a {
+	color: inherit;
+	display: block;
+	text-decoration: none;
+}
+.link:hover {
+	font-size: 1.3em;
+	
+}
+
+.portfolio {
+	color: #bb0000;
+	background: white;
+	border: solid 2.1px #bb0000;
+}
+.portfolio:hover {
+	background: #bb0000;
+	border: solid 2.1px white;
+	color: white;
+}
+.linkedin {
+	background: white;
+	color: #007bb5;
+	border: solid 2.1px #007bb5;
+}
+.linkedin:hover {
+	background: #007bb5;
+	border: solid 2.1px white;
+	color: white;
+}
+
+.github {
+	background: white;
+	border: solid 2.1px black;
+	color: black;
+}
+.github:hover {
+	background: black;
+	border: solid 2.1px white;
+	color: white;
+	
+}
+
+/*-------ICONS-------*/
+.fa {
+	font-size: 3.9em;
+}
+
+.fa-briefcase, .fa-cogs, .fa-linkedin-square, .fa-github {
+	color: inherit;
+}
+
+
+/*------------------------------------------*/
+
+@media and screen(min-width: 767px) {
+	
+}
+
+@media and screen(min width: 768px) and (max-width: 979px) {
+	
+}
+@media and screen (min-width: 980px) and (max-width: 1199px) {
+	
+}
+
+@media and screen (min-width: 1200px) {
+	
+}
+
