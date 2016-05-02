@@ -11,9 +11,6 @@ body {
 	font-family: 'Droid Sans', sans-serif;
 	background: url("../images/skulls.png");
 }
-.strike {
-	text-decoration: line-through;
-}
 .description {
 	max-width: 500px;
 	text-align: center;
@@ -31,7 +28,6 @@ body {
 	display: inline-block;
 	margin: 10px;
 	padding: 5px 10px;
-
 	transition: background 0.5s, font-size 0.5s, color 0.5s, border 0.5s, border-radius 0.5s;
 }
 .link a {
@@ -40,8 +36,7 @@ body {
 	text-decoration: none;
 }
 .link:hover {
-	font-size: 1.3em;
-	
+	font-size: 1.3em;	
 }
 
 .portfolio {
