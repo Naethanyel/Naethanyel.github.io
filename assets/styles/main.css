@@ -4,7 +4,6 @@ LinkedIn-blue: #007-bb5
 Vine-green: #00b-f8f
 YouTube-red: #bb0-000
 ------------------*/
-
 body {
 	font-size: 1.3em;
 	text-align: center;
@@ -71,7 +70,6 @@ body {
 	color: white;
 	
 }
-
 /*-------ICONS-------*/
 .fa {
 	font-size: 3.9em;
@@ -80,22 +78,3 @@ body {
 .fa-briefcase, .fa-cogs, .fa-linkedin-square, .fa-github {
 	color: inherit;
 }
-
-
-/*------------------------------------------*/
-
-@media and screen(min-width: 767px) {
-	
-}
-
-@media and screen(min width: 768px) and (max-width: 979px) {
-	
-}
-@media and screen (min-width: 980px) and (max-width: 1199px) {
-	
-}
-
-@media and screen (min-width: 1200px) {
-	
-}
-
