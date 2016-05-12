@@ -34,6 +34,7 @@ body {
 .link {
 	display: inline-block;
 	margin: 25px 10px;
+	min-width: 100px;
 	padding: 5px 10px;
 	transition: background 0.5s, font-size 0.5s, color 0.5s, border 0.5s, border-radius 0.5s;
 }
